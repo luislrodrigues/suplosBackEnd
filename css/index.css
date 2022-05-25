@@ -143,3 +143,26 @@ video#vidFondo {
 .card-action{
   text-align: right;
 }
+.flex{
+  display: flex;
+  flex-direction:column;
+}
+.goods{
+  display: flex;
+  flex-direction:column;
+  width: 100%;
+  margin-bottom:20px;
+}
+.goods-child{
+  display: flex;
+  margin-bottom:20px;
+}
+.button-save{
+  width: 100px;
+}
+.message{
+  color: green;
+}
+.message-error{
+  color: red;
+}
